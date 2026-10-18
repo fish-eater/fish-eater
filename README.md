@@ -9,3 +9,5 @@ check out my [website!](https://www.eater.fish)
 ---
 
 You may know me from projects like the [two sentence horror guessing game](https://www.eater.fish/creation/git/2sentenceexplorer/). Check it out!
+
+[<img width="300" src="https://github.com/user-attachments/assets/82ec110f-0eb1-480d-8dc1-4759ccb41bc2" />](https://www.eater.fish/creation/git/2sentenceexplorer/)
