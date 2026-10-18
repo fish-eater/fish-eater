@@ -6,8 +6,10 @@ I get really invested and interested in various projects some you can see here a
 
 check out my [website!](https://www.eater.fish)
 
+[<img width="64" title="click for fish coin" src="https://www.eater.fish/resources/fishcoin/fishcoin.png">](https://www.eater.fish/fishcoin?fill&collect-code=wVy3cSCSw&collect-key=stored-key)
+
 ---
 
 You may know me from projects like the [two sentence horror guessing game](https://www.eater.fish/creation/git/2sentenceexplorer/). Check it out!
 
-[<img width="300" src="https://github.com/user-attachments/assets/82ec110f-0eb1-480d-8dc1-4759ccb41bc2" />](https://www.eater.fish/creation/git/2sentenceexplorer/)
+[<img width="300" title="what could it be?" src="https://github.com/user-attachments/assets/82ec110f-0eb1-480d-8dc1-4759ccb41bc2" />](https://www.eater.fish/creation/git/2sentenceexplorer/)
